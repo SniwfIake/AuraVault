@@ -27,7 +27,9 @@ AuraVault: Your Modern Web File Access Hub
   To install AuraVault globally on your system and enable the web-access command, run the following script from the root
   directory of the AuraVault project:
 
-   1 sudo ./install.sh
+ ```bash
+sudo ./install.sh
+```
 
 
   This script will perform the following actions:
@@ -51,7 +53,9 @@ AuraVault: Your Modern Web File Access Hub
 
   To specify a different port (e.g., 8080), use the --port argument:
 
-   1 web-access --port 8080
+  ```bash
+web-access --port 8080
+```
 
 
   Accessing the Web Interface
