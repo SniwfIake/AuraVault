@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 21, 2026, 10_53_02 AM" src="https://github.com/user-attachments/assets/96b6d2b2-e1c1-4ebd-a602-9739e12d1fd7" />
+
 AuraVault: Your Modern Web File Access Hub
 
 
