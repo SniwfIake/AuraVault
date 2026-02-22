@@ -92,4 +92,3 @@ zip -r AuraVault.zip . -x "node_modules/*"
 
 MIT License
 
-   2 kill <PID>
