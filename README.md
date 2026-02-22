@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="ChatGPT Image Feb 21, 2026, 10_53_02 AM" src="https://github.com/user-attachments/assets/96b6d2b2-e1c1-4ebd-a602-9739e12d1fd7" />
 
-A# AuraVault: Your Modern Web File Access Hub
+AuraVault: Your Modern Web File Access Hub
 
 AuraVault is a cutting-edge web application designed to transform any local project directory into a visually stunning and highly functional web-based file browser. Built with Node.js, Express, and a sleek glassmorphism-inspired frontend, AuraVault provides an intuitive way to browse, manage, and share your project files and development artifacts.
 
